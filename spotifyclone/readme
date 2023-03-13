@@ -1,0 +1,5 @@
+  margin-top: 60px;
+    margin-left:20px;
+    margin-right:0px;
+
+    background-image: linear-gradient(to bottom,black to grey);
